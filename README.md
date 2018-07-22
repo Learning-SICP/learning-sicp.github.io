@@ -1,1 +1,1 @@
-# learning-sicp.github.io
+# learningsicp.github.io
